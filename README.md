@@ -29,5 +29,5 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=freegemini"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=freegemini&theme=nord&date_format=M%20j%5B%2C%20Y%5D"/>
   </div>
